@@ -1,0 +1,52 @@
+{
+    "Titular": "GestaoDeFilmes",
+    "db_Utilizador": [
+        {
+            "Id_Utilizador": 1,
+            "Login_Utilz": "utilizador1",
+            "Email_Utilz": "utilizador1@email.com",
+            "Password_Utilz": "kLAiSCINchMO",
+            "Foto_Utilz": "/caminho/foto/photo1.jpg",
+            "DataNascimento_Utilz": "1990-01-01"
+        },
+        {
+            "Id_Utilizador": 2,
+            "Login_Utilz": "utilizador2",
+            "Email_Utilz": "utilizador2@email.com",
+            "Password_Utilz": "dlAAKohmbCbA",
+            "Foto_Utilz": "/caminho/foto/photo2.jpg",
+            "DataNascimento_Utilz": "1992-02-02"
+        }
+    ],
+    "db_Filmes": [
+        {
+            "id_Filme": 1,
+            "genero_ID": [
+                1,
+                7
+            ],
+            "titulo_Filme": "The Shawshank Redemption",
+            "diretor_Filme": "Frank Darabont",
+            "ano_Lancamento_Filme": 1994,
+            "grupo_de_atores_Filme": "Tim Robbins, Morgan Freeman",
+            "resumo_Filme": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+            "ImgNomeFich_Filme": "shawshank_redemption.jpg",
+            "ImagemCaminho_Filme": "/caminho/img/poster"
+        },
+        {
+            "id_Filme": 2,
+            "genero_ID": [
+                1,
+                7,
+                18
+            ],
+            "titulo_Filme": "The Godfather",
+            "diretor_Filme": "Francis Ford Coppola",
+            "ano_Lancamento_Filme": 1972,
+            "grupo_de_atores_Filme": "Marlon Brando, Al Pacino, James Caan",
+            "resumo_Filme": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+            "ImgNomeFich_Filme": "godfather.jpg",
+            "ImagemCaminho_Filme": "/caminho/img/poster"
+        }
+    ]
+}
