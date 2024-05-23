@@ -1,0 +1,248 @@
+[
+    {
+        "titulo": "Configurar o seu Primeiro Projeto Vue3 - Lançamento do Vue 3.0",
+        "PaginaLink": "https://learnvue.co/2020/09/setting-up-your-first-vue3-project-vue-3-0-release/",
+        "descricao": "Esta é uma descrição de exemplo para o tutorial sobre como configurar o seu primeiro projeto Vue3 e o lançamento do Vue 3.0.",
+        "publicado": true
+    },
+    {
+        "titulo": "Um Resumo do Manuseio de Eventos do Vue – Os Essenciais",
+        "PaginaLink": "https://learnvue.co/2020/01/a-vue-event-handling-cheatsheet-the-essentials/",
+        "descricao": "Aqui está uma breve visão geral sobre como lidar com eventos no Vue, abrangendo os conceitos essenciais.",
+        "publicado": true
+    },
+    {
+        "titulo": "6 Técnicas para Escrever Melhores Loops v-for no VueJS",
+        "PaginaLink": "https://learnvue.co/2020/02/6-techniques-to-write-better-vuejs-v-for-loops/",
+        "descricao": "Este tutorial apresenta seis técnicas úteis para melhorar seus loops v-for ao trabalhar com listas no VueJS.",
+        "publicado": true
+    },
+    {
+        "titulo": "Um Tutorial Simples de Watcher do Vue Para Iniciantes",
+        "PaginaLink": "https://learnvue.co/2019/12/a-simple-vue-watcher-tutorial-for-beginners/",
+        "descricao": "Este tutorial oferece uma introdução fácil ao uso de watchers no Vue para iniciantes.",
+        "publicado": true
+    },
+    {
+        "titulo": "Animações VueJS para Iniciantes",
+        "PaginaLink": "https://learnvue.co/2020/02/vuejs-animations-for-beginners/",
+        "descricao": "Aprenda como adicionar animações aos seus aplicativos VueJS com este tutorial para iniciantes.",
+        "publicado": true
+    },
+    {
+        "titulo": "Fornecer e Injetar - Uma Introdução à Criação de Plugins Vue3",
+        "PaginaLink": "https://learnvue.co/2020/03/designing-vue3-plugins-using-provide-and-inject/",
+        "descricao": "Este tutorial explora o conceito de fornecer e injetar em Vue3 e como criar plugins usando esses recursos.",
+        "publicado": true
+    },
+    {
+        "titulo": "Como Gerir Mixins VueJS",
+        "PaginaLink": "https://learnvue.co/2019/12/how-to-manage-mixins-in-vuejs/",
+        "descricao": "Aprenda como gerenciar mixins de forma eficaz no VueJS com este tutorial detalhado.",
+        "publicado": true
+    },
+    {
+        "titulo": "Como Usar Transições Vue Agora",
+        "PaginaLink": "https://learnvue.co/2020/01/how-you-can-use-vue-transitions-right-now/",
+        "descricao": "Descubra como começar a usar transições Vue em seus projetos agora mesmo com este tutorial.",
+        "publicado": true
+    },
+    {
+        "titulo": "Usando Slots de Componentes no VueJS — Uma Visão Geral",
+        "PaginaLink": "https://learnvue.co/2019/12/using-component-slots-in-vuejs - an-overview/",
+        "descricao": "Este tutorial oferece uma visão geral sobre o uso de slots de componentes no VueJS para maior flexibilidade.",
+        "publicado": true
+    },
+    {
+        "titulo": "Uma Visão Geral dos Componentes Dinâmicos VueJS",
+        "PaginaLink": "https://learnvue.co/2020/01/an-overview-of-vuejs-dynamic-components/",
+        "descricao": "Aprenda sobre os benefícios e a implementação de componentes dinâmicos no VueJS com este guia abrangente.",
+        "publicado": true
+    },
+    {
+        "titulo": "Dominando Propriedades Computadas no VueJS",
+        "PaginaLink": "https://learnvue.co/2019/12/mastering-computed-properties-in-vuejs/",
+        "descricao": "Aprofunde seus conhecimentos sobre propriedades computadas no VueJS com este tutorial detalhado.",
+        "publicado": true
+    },
+    {
+        "titulo": "Uma Primeira Visão do Vue-Router no Vue3",
+        "PaginaLink": "https://learnvue.co/2020/04/a-first-look-at-vue-router-in-vue3/",
+        "descricao": "Explore as novas funcionalidades do Vue-Router no Vue3 com este tutorial introdutório.",
+        "publicado": true
+    },
+    {
+        "titulo": "Um Guia para Iniciantes dos Hooks do Ciclo de Vida do Vue",
+        "PaginaLink": "https://learnvue.co/2019/12/a-beginners-guide-to-vuejs-lifecycle-hooks/",
+        "descricao": "Este guia abrange todos os ganchos do ciclo de vida do Vue para iniciantes, ajudando você a entender como e quando usá-los.",
+        "publicado": true
+    },
+    {
+        "titulo": "Como Usar Hooks do Ciclo de Vida no Vue3",
+        "PaginaLink": "https://learnvue.co/2020/03/how-to-use-lifecycle-hooks-in-vue3/",
+        "descricao": "Descubra como usar os hooks do ciclo de vida no Vue3 para maior controle e gerenciamento de componentes.",
+        "publicado": true
+    },
+    {
+        "titulo": "Como Adicionar Arrastar e Soltar ao Seu Projeto VueJS",
+        "PaginaLink": "https://learnvue.co/2020/01/how-to-add-drag-and-drop-to-your-vuejs-project/",
+        "descricao": "Aprenda a implementar arrastar e soltar em seus projetos VueJS com este tutorial passo a passo.",
+        "publicado": true
+    },
+    {
+        "titulo": "Como Criar o Seu Primeiro Plugin VueJS",
+        "PaginaLink": "https://learnvue.co/2020/01/how-to-make-your-first-vuejs-plugin/",
+        "descricao": "Este tutorial mostra como criar seu próprio plugin VueJS do zero para estender as funcionalidades do Vue.",
+        "publicado": true
+    },
+    {
+        "titulo": "Uma Introdução às Propriedades Vue3 - Um Guia para Iniciantes",
+        "PaginaLink": "https://learnvue.co/2020/08/an-introduction-to-vue3-props-a-beginners-guide/",
+        "descricao": "Aprenda sobre propriedades em Vue3 e como usá-las em seus componentes com este guia para iniciantes.",
+        "publicado": true
+    },
+    {
+        "titulo": "Construindo Componentes Reutilizáveis no VueJS | Guias",
+        "PaginaLink": "https://learnvue.co/2019/12/building-reusable-components-in-vuejs-tabs/",
+        "descricao": "Este tutorial oferece dicas e práticas recomendadas para construir componentes reutilizáveis eficazes no VueJS.",
+        "publicado": true
+    },
+    {
+        "titulo": "Criando um Componente Global Vue3",
+        "PaginaLink": "https://learnvue.co/2020/08/how-to-register-a-vue3-global-component/",
+        "descricao": "Aprenda como criar e registrar componentes globais no Vue3 para uso em todo o seu aplicativo.",
+        "publicado": true
+    },
+    {
+        "titulo": "12 Melhores Práticas VueJS para Desenvolvedores Profissionais",
+        "PaginaLink": "https://learnvue.co/2020/01/12-vuejs-best-practices-for-pro-developers/",
+        "descricao": "Descubra as melhores práticas e padrões de codificação para desenvolvedores VueJS experientes com este guia abrangente.",
+        "publicado": true
+    },
+    {
+        "titulo": "Uma Visão Geral do Vue Keep-Alive",
+        "PaginaLink": "https://learnvue.co/2019/12/an-overview-of-vue-keep-alive/",
+        "descricao": "Este tutorial oferece uma visão geral do Vue Keep-Alive e como usá-lo para otimizar o desempenho do seu aplicativo Vue.",
+        "publicado": true
+    },
+    {
+        "titulo": "Um Lindo Efeito de Rolagem Parallax no VueJS - Dicas Diárias de Vue #2",
+        "PaginaLink": "https://learnvue.co/2020/04/a-beautiful-parallax-scrolling-effect-in-vuejs-daily-vue-tips-2/",
+        "descricao": "Aprenda a criar um efeito de rolagem parallax deslumbrante em seus projetos VueJS com este tutorial.",
+        "publicado": true
+    },
+    {
+        "titulo": "Ficando Esperto com a Validação de Formulários Vue – Tutorial Vuelidate",
+        "PaginaLink": "https://learnvue.co/2020/01/getting-smart-with-vue-form-validation-vuelidate-tutorial/",
+        "descricao": "Este tutorial explora como usar o Vuelidate para adicionar validação de formulários inteligente aos seus projetos Vue.",
+        "publicado": true
+    },
+    {
+        "titulo": "Construa um Input de Tags VueJS Personalizado em Menos de 10 Minutos",
+        "PaginaLink": "https://learnvue.co/2020/01/build-a-custom-vuejs-tag-input-in-under-10-minutes/",
+        "descricao": "Aprenda a criar um componente de entrada de tags personalizado em menos de 10 minutos com VueJS.",
+        "publicado": true
+    },
+    {
+        "titulo": "LearnVue",
+        "PaginaLink": "https://learnvue.co/",
+        "descricao": "Aprenda VueJS com tutoriais, guias e dicas úteis no LearnVue, uma excelente plataforma de recursos educacionais para desenvolvedores Vue.",
+        "publicado": true
+    },
+    {
+        "titulo": "Construindo o Mesmo Componente em Vue2 vs. Vue3",
+        "PaginaLink": "https://learnvue.co/2020/02/building-the-same-component-in-vue2-vs-vue3/",
+        "descricao": "Compare a construção do mesmo componente em Vue2 e Vue3 com este tutorial detalhado.",
+        "publicado": true
+    },
+    {
+        "titulo": "4 Dicas da API de Composição Vue3 Que Você Deveria Conhecer",
+        "PaginaLink": "https://learnvue.co/2020/01/4-vue3-composition-api-tips-you-should-know/",
+        "descricao": "Descubra quatro dicas essenciais para usar a API de composição Vue3 de maneira eficaz em seus projetos.",
+        "publicado": true
+    },
+    {
+        "titulo": "8 Bibliotecas de Ícones Vue Gratuitas para Deixar o Seu Aplicativo Web Mais Bonito",
+        "PaginaLink": "https://learnvue.co/2019/12/8-free-vue-icon-libraries-to-pretty-up-your-web-app/",
+        "descricao": "Adicione estilo e beleza ao seu aplicativo da web com estas oito bibliotecas de ícones Vue gratuitas.",
+        "publicado": true
+    },
+    {
+        "titulo": "Como e Por Que Usar Componentes de Envoltório no Vue3",
+        "PaginaLink": "https://learnvue.co/2020/03/how-and-why-to-use-wrapper-components-in-vue3/",
+        "descricao": "Este tutorial explora o uso de componentes de envoltório no Vue3 e suas vantagens ao desenvolver aplicativos.",
+        "publicado": true
+    },
+    {
+        "titulo": "Como Fazer e Usar o SVG Sprites no VueJS",
+        "PaginaLink": "https://learnvue.co/2020/01/how-to-make-and-use-svg-sprites-in-vuejs/",
+        "descricao": "Aprenda a criar e utilizar sprites SVG em seus projetos VueJS para um carregamento mais eficiente de ícones.",
+        "publicado": true
+    },
+    {
+        "titulo": "Introdução ao Vuex ORM - guardar de Dados Simples no VueJS",
+        "PaginaLink": "https://learnvue.co/2020/01/an-introduction-to-vuex-orm-simple-data-storage-in-vuejs/",
+        "descricao": "Este tutorial oferece uma introdução ao Vuex ORM para guardar os dados simples em aplicativos VueJS.",
+        "publicado": true
+    },
+    {
+        "titulo": "Como Fazer o Seu Próprio Hook no VueJS",
+        "PaginaLink": "https://learnvue.co/2020/03/how-to-make-your-own-hook-in-vuejs/",
+        "descricao": "Aprenda a criar seus próprios hooks personalizados no VueJS para reutilização eficiente de lógica em componentes.",
+        "publicado": true
+    },
+    {
+        "titulo": "Adicionando Paginação ao Seu Projeto VueJS com Vue.js Paginate",
+        "PaginaLink": "https://learnvue.co/2020/01/adding-pagination-to-your-vuejs-project-with-vue-js-paginate/",
+        "descricao": "Saiba como adicionar funcionalidade de paginação aos seus projetos VueJS com Vue.js Paginate.",
+        "publicado": true
+    },
+    {
+        "titulo": "Implementando a Paginação do Bootstrap 4 no Seu Projeto VueJS",
+        "PaginaLink": "https://learnvue.co/2020/01/implementing-bootstrap-4-pagination-in-your-vuejs-project/",
+        "descricao": "Aprenda a implementar a paginação do Bootstrap 4 em seus projetos VueJS com este tutorial passo a passo.",
+        "publicado": true
+    },
+    {
+        "titulo": "Como Implementar a Autenticação do Firebase no Seu Projeto VueJS",
+        "PaginaLink": "https://learnvue.co/2020/01/how-to-implement-firebase-authentication-in-your-vuejs-project/",
+        "descricao": "Descubra como integrar a autenticação do Firebase em seus projetos VueJS com este guia prático.",
+        "publicado": true
+    },
+    {
+        "titulo": "Como Usar o D3.js com VueJS para Criar Gráficos Interativos",
+        "PaginaLink": "https://learnvue.co/2020/01/how-to-use-d3-js-with-vuejs-to-create-interactive-charts/",
+        "descricao": "Aprenda a integrar o D3.js em seus projetos VueJS para criar visualizações de dados interativas.",
+        "publicado": true
+    },
+    {
+        "titulo": "Construindo um Chat de Grupo em Tempo Real com VueJS e CometChat",
+        "PaginaLink": "https://learnvue.co/2020/02/building-a-realtime-group-chat-app-with-vuejs-and-cometchat/",
+        "descricao": "Este tutorial mostra como criar um chat de grupo em tempo real com VueJS e CometChat.",
+        "publicado": true
+    },
+    {
+        "titulo": "Como Usar o Chart.js com VueJS para Criar Gráficos Dinâmicos",
+        "PaginaLink": "https://learnvue.co/2020/01/how-to-use-chart-js-with-vuejs-to-create-dynamic-charts/",
+        "descricao": "Aprenda a criar gráficos dinâmicos em seus projetos VueJS utilizando o Chart.js com este guia prático.",
+        "publicado": true
+    },
+    {
+        "titulo": "Guia de Implementação do Light/Dark Mode no Vue3",
+        "PaginaLink": "https://learnvue.co/2020/07/a-light-dark-mode-implementation-guide-in-vue3/",
+        "descricao": "Descubra como implementar facilmente o modo claro/escuro em seus aplicativos Vue3 com este guia abrangente.",
+        "publicado": true
+    },
+    {
+        "titulo": "Construindo um Feed Social em Tempo Real com VueJS e Stream",
+        "PaginaLink": "https://learnvue.co/2020/02/building-a-realtime-social-feed-with-vuejs-and-stream/",
+        "descricao": "Este tutorial detalha como construir um feed social em tempo real com VueJS e Stream.",
+        "publicado": true
+    },
+    {
+        "titulo": "Como Construir um Menu de Navegação Responsivo em VueJS",
+        "PaginaLink": "https://learnvue.co/2020/01/how-to-build-a-responsive-navigation-menu-in-vuejs/",
+        "descricao": "Aprenda a criar um menu de navegação responsivo para seus aplicativos VueJS com este tutorial passo a passo.",
+        "publicado": true
+    }
+]

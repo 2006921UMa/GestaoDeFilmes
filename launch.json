@@ -1,0 +1,14 @@
+
+// Para usar a tarefa na configuração de inicialização ( .vscode/launch.json)
+// {
+//   "version": "0.2.0",
+//   "configurations": [
+//     {
+//       "preLaunchTask": "clear-editor-history"
+//     }
+//   ]
+// }
+
+// Está relacionado o ficheiro tasks.json
+
+// Autor: Ramiro Marques
