@@ -1,0 +1,206 @@
+// Instalação de dependências
+
+cd ProjectoEntregarAte14Maio
+
+vue create gestaodefilmes
+ou 
+npm install vue@latest
+ou
+vue ui
+ou 
+npm install
+
+Nota: o melhor criar projecto é vue ui
+
+
+agora : adicionar dependencies (no terminal), em cada projectos
+
+npm install axios --save
+yarn add axios
+depois installa => ver dependência axios se está lista do ficheiro package.json.
+
+
+
+======================================
+
+npm init -y
+npm install express mysql2 body-parser
+
+npm install -g @vue/cli
+npm install --save-dev @vue/cli
+
+=======================================
+
+
+Para teste de desenvolvimento
+npm run serve  
+
+Para compilar o código fonte (Produção Final)
+npm run buid
+
+
+
+=========================================
+
+criar github
+
+no site foi criado um repositório GestaoDeFilmes
+
+git clone https://github.com/2006921UMa/GestaoDeFilmes.git
+
+
+==========================================
+
+Firebase instalar
+
+npm install firebase
+
+yarn add firebase
+
+npm install --save react-firebase-hooks
+
+yarn add react-firebase-hooks
+
+no ficheiro firebase.ts => 
+
+import { initializeApp } from 'firebase/app';
+
+const firebaseConfig = {
+  apiKey: "SUA_API_KEY",
+  authDomain: "SEU_DOMÍNIO.firebaseapp.com",
+  projectId: "SEU_PROJECT_ID",
+  storageBucket: "SEU_STORAGE_BUCKET",
+  messagingSenderId: "SEU_SENDER_ID",
+  appId: "SEU_APP_ID"
+};
+
+const app = initializeApp(firebaseConfig);
+
+
+=============================================
+
+criar as credenciais 
+
+https://next-auth.js.org/configuration/providers/credentials
+
+
+
+=============================================
+
+link site, criar registar e login Firebase
+
+link video
+https://www.youtube.com/watch?v=xceR7mrrXsA
+
+
+https://learnvue.co/vue-3-essentials-cheatsheet -> tem manual
+https://learnvue.co/LearnVue-Vue-3-Cheatsheet.pdf
+
+
+=============================================
+
+
+
+
+vue cli (buid step)
+
+html + css
+
+v-bind :class
+
+form => evection
+v-model
+autoticantion 
+
+-- compomentes DOM
+
+
+================================================
+
+criar css estilo Tailwind (por causa enviar mensagem)
+
+npm install tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+
+
+criar uma pasta 
+/* src/assets/styles/tailwind.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+adicionar no main.js
+import './assets/styles/tailwind.css';
+
+
+====================================================
+
+Carregar hithub
+
+
+# Verificar a branch atual
+git branch
+
+# Trocar para a branch master (se necessário)
+git checkout master
+
+# Remover o repositório remoto antigo
+git remote remove origin
+
+# Adicionar o repositório remoto correto
+git remote add origin https://github.com/2006921UMa/GestaoDeFilmes.git
+
+# Verificar a configuração do remoto
+git remote -v
+
+# Enviar os arquivos para o GitHub na branch master
+git push -u origin master
+
+
+
+git remote remove origin
+git remote add origin https://github.com/2006921UMa/GestaoDeFilmes.git
+git push -u origin master  (Aqui começa enviar)
+
+
+=======================================
+
+Criar e Gerir Versões (Tags) do projecto GestaoDeFilmes
+
+git tag -a v1.0 -m "Gestao De Filmes versão 1.0 - Data 16/05/2024"
+
+git push origin v1.0
+
+git checkout -b GestaoDeFilms-master  (Criar novo nome)
+
+git checkout GestaoDeFilms-branch  (Para mudar outro branch)
+
+git push origin GestaoDeFilms-branch  (Enviar um branch para o GitHub)
+
+
+===========================================
+
+No gitHub tinha problemas de modulos
+
+ver no site => https://www.google.com/search?q=Fetching+submodules&sca_esv=19fb95802b09d0d0&sxsrf=ADLYWIK5b1c68lw0p0qz39bHYXNNiLqz5g%3A1715886100305&ei=FFhGZo2cEo2H9u8PmYKTOA&udm=&ved=0ahUKEwiN9u7r7ZKGAxWNg_0HHRnBBAcQ4dUDCBA&uact=5&oq=Fetching+submodules&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0ZldGNoaW5nIHN1Ym1vZHVsZXMyBBAjGCcyCRAAGIAEGBMYDTIIEAAYExgNGB4yCBAAGBMYFhgeMgoQABgTGBYYChgeMggQABgTGBYYHjIKEAAYExgFGA0YHjIKEAAYExgFGA0YHjIKEAAYExgFGA0YHjIKEAAYExgFGA0YHkiMC1AAWKEJcAB4AJABAJgB3gGgAd4BqgEDMi0xuAEDyAEA-AEBmAIBoALmAZgDAJIHAzItMaAH_Aw&sclient=gws-wiz-serp
+git config --global submodule.recurse true
+
+===========================================
+
+Gravar segunda versão de projectos
+
+git status
+git add .
+git add C:\TPSI\1_Ano_2_Semestre\DevWebFrontEnd_EduardoTeles\ProjectoEntregarAte14Maio\gestaodefilmes
+git commit -m "Terceira versão Final 23-05-2024: [Descrição das mudanças]"
+git pull origin main
+git push origin main
+
+
+==========================================
+
+Base de dados tinha problema no formato
+
+npm install date-fns
+
+
