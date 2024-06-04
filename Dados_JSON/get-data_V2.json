@@ -1,0 +1,22 @@
+[
+    {
+        "Nome": "Aventura na Floresta",
+        "Pagina": "https://aventurafloresta.com"
+    },
+    {
+        "Nome": "O Segredo do Castelo",
+        "Pagina": "https://segredocastelo.com"
+    },
+    {
+        "Nome": "Viagem ao Desconhecido",
+        "Pagina": "https://viagemdesconhecido.com"
+    },
+    {
+        "Nome": "A Jornada do Herói",
+        "Pagina": "https://jornadaherói.com"
+    },
+    {
+        "Nome": "O Mistério do Abismo",
+        "Pagina": "https://mistérioabismo.com"
+    }
+]

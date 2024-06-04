@@ -1,0 +1,403 @@
+{
+    "Titular": "GestaoDeFilmes",
+    "db_Utilizador": [
+        {
+            "Id_Utilizador": 1,
+            "Login_Utilz": "utilizador1",
+            "Password_Utilz": "kLAiSCINchMO",
+            "Email_Utilz": "utilizador1@email.com",
+            "Foto_Utilz": "/caminho/foto/foto1.jpg",
+            "DataNascimento_Utilz": "2001-01-15"
+        },
+        {
+            "Id_Utilizador": 2,
+            "Login_Utilz": "utilizador2",
+            "Password_Utilz": "dlAAKohmbCbA",
+            "Email_Utilz": "utilizador2@email.com",
+            "Foto_Utilz": "/caminho/foto/foto2.jpg",
+            "DataNascimento_Utilz": "2004-02-16"
+        },
+        {
+            "Id_Utilizador": 3,
+            "Login_Utilz": "utilizador3",
+            "Password_Utilz": "6WUX3R!La8Gv",
+            "Email_Utilz": "utilizador3@email.com",
+            "Foto_Utilz": "/caminho/foto/foto3.jpg",
+            "DataNascimento_Utilz": "2005-03-17"
+        },
+        {
+            "Id_Utilizador": 4,
+            "Login_Utilz": "utilizador4",
+            "Password_Utilz": "43dQ@$U1Sjsf",
+            "Email_Utilz": "utilizador4@email.com",
+            "Foto_Utilz": "/caminho/foto/foto4.jpg",
+            "DataNascimento_Utilz": "2006-04-18"
+        },
+        {
+            "Id_Utilizador": 5,
+            "Login_Utilz": "utilizador5",
+            "Password_Utilz": "2e6Pk$gfMr3@",
+            "Email_Utilz": "utilizador5@email.com",
+            "Foto_Utilz": "/caminho/foto/foto5.jpg",
+            "DataNascimento_Utilz": "2010-05-19"
+        }
+    ],
+    "db_Filmes": [
+        {
+            "id_Filme": 1,
+            "genero_ID": [
+                1,
+                7
+            ],
+            "titulo_Filme": "The Shawshank Redemption",
+            "diretor_Filme": "Frank Darabont",
+            "ano_Lancamento_Filme": 1994,
+            "grupo_de_atores_Filme": "Tim Robbins, Morgan Freeman",
+            "resumo_Filme": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+            "ImgNomeFich_Filme": "shawshank_redemption.jpg",
+            "ImagemCaminho_Filme": "/caminho/img/poster"
+        },
+        {
+            "id_Filme": 2,
+            "genero_ID": [
+                1,
+                7,
+                18
+            ],
+            "titulo_Filme": "The Godfather",
+            "diretor_Filme": "Francis Ford Coppola",
+            "ano_Lancamento_Filme": 1972,
+            "grupo_de_atores_Filme": "Marlon Brando, Al Pacino, James Caan",
+            "resumo_Filme": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+            "ImgNomeFich_Filme": "godfather.jpg",
+            "ImagemCaminho_Filme": "/caminho/img/poster"
+        },
+        {
+            "id_Filme": 3,
+            "genero_ID": [
+                3
+            ],
+            "titulo_Filme": "The Dark Knight",
+            "diretor_Filme": "Christopher Nolan",
+            "ano_Lancamento_Filme": 2008,
+            "grupo_de_atores_Filme": "Christian Bale, Heath Ledger, Aaron Eckhart",
+            "resumo_Filme": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+            "ImgNomeFich_Filme": "dark_knight.jpg",
+            "ImagemCaminho_Filme": "/caminho/img/poster"
+        },
+        {
+            "id_Filme": 4,
+            "genero_ID": [
+                4
+            ],
+            "titulo_Filme": "Inception",
+            "diretor_Filme": "Christopher Nolan",
+            "ano_Lancamento_Filme": 2010,
+            "grupo_de_atores_Filme": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",
+            "resumo_Filme": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+            "ImgNomeFich_Filme": "inception.jpg",
+            "ImagemCaminho_Filme": "/caminho/img/poster"
+        },
+        {
+            "id_Filme": 5,
+            "genero_ID": [
+                5
+            ],
+            "titulo_Filme": "The Lord of the Rings: The Return of the King",
+            "diretor_Filme": "Peter Jackson",
+            "ano_Lancamento_Filme": 2003,
+            "grupo_de_atores_Filme": "Elijah Wood, Viggo Mortensen, Ian McKellen",
+            "resumo_Filme": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+            "ImgNomeFich_Filme": "return_of_the_king.jpg",
+            "ImagemCaminho_Filme": "/caminho/img/poster"
+        }
+    ],
+    "db_Genero": [
+        {
+            "id_Genero": 1,
+            "Lista_Genero": "Ação"
+        },
+        {
+            "id_Genero": 2,
+            "Lista_Genero": "Aventura"
+        },
+        {
+            "id_Genero": 3,
+            "Lista_Genero": "Cinema de arte"
+        },
+        {
+            "id_Genero": 4,
+            "Lista_Genero": "Chanchada"
+        },
+        {
+            "id_Genero": 5,
+            "Lista_Genero": "Comédia"
+        },
+        {
+            "id_Genero": 6,
+            "Lista_Genero": "Comédia de ação"
+        },
+        {
+            "id_Genero": 7,
+            "Lista_Genero": "Comédia de terror"
+        },
+        {
+            "id_Genero": 8,
+            "Lista_Genero": "Comédia dramática"
+        },
+        {
+            "id_Genero": 9,
+            "Lista_Genero": "Comédia romântica"
+        },
+        {
+            "id_Genero": 10,
+            "Lista_Genero": "Dança"
+        },
+        {
+            "id_Genero": 11,
+            "Lista_Genero": "Documentário"
+        },
+        {
+            "id_Genero": 12,
+            "Lista_Genero": "Docuficção"
+        },
+        {
+            "id_Genero": 13,
+            "Lista_Genero": "Drama"
+        },
+        {
+            "id_Genero": 14,
+            "Lista_Genero": "Espionagem"
+        },
+        {
+            "id_Genero": 15,
+            "Lista_Genero": "Faroeste"
+        },
+        {
+            "id_Genero": 16,
+            "Lista_Genero": "Fantasia"
+        },
+        {
+            "id_Genero": 17,
+            "Lista_Genero": "Fantasia científica"
+        },
+        {
+            "id_Genero": 18,
+            "Lista_Genero": "Ficção Científica"
+        },
+        {
+            "id_Genero": 19,
+            "Lista_Genero": "Filmes com truques"
+        },
+        {
+            "id_Genero": 20,
+            "Lista_Genero": "Filmes de guerra"
+        },
+        {
+            "id_Genero": 21,
+            "Lista_Genero": "Mistério"
+        },
+        {
+            "id_Genero": 22,
+            "Lista_Genero": "Musical"
+        },
+        {
+            "id_Genero": 23,
+            "Lista_Genero": "Filme policial"
+        },
+        {
+            "id_Genero": 24,
+            "Lista_Genero": "Romance"
+        },
+        {
+            "id_Genero": 25,
+            "Lista_Genero": "Terror"
+        },
+        {
+            "id_Genero": 26,
+            "Lista_Genero": "Thriller"
+        }
+    ],
+    "db_Filmes_Generos": [
+        {
+            "Filmes_ID": 1,
+            "Genero_ID": 7
+        },
+        {
+            "Filmes_ID": 1,
+            "Genero_ID": 1
+        },
+        {
+            "Filmes_ID": 2,
+            "Genero_ID": 1
+        },
+        {
+            "Filmes_ID": 2,
+            "Genero_ID": 7
+        },
+        {
+            "Filmes_ID": 2,
+            "Genero_ID": 18
+        },
+        {
+            "Filmes_ID": 3,
+            "Genero_ID": 2
+        },
+        {
+            "Filmes_ID": 3,
+            "Genero_ID": 8
+        },
+        {
+            "Filmes_ID": 3,
+            "Genero_ID": 12
+        },
+        {
+            "Filmes_ID": 4,
+            "Genero_ID": 2
+        },
+        {
+            "Filmes_ID": 4,
+            "Genero_ID": 17
+        },
+        {
+            "Filmes_ID": 5,
+            "Genero_ID": 3
+        },
+        {
+            "Filmes_ID": 5,
+            "Genero_ID": 16
+        }
+    ],
+    // Avaliações
+    "db_Avaliacoes": [
+        {
+            "Utilizador_ID": "1",
+            "filme_ID": "1",
+            "classificacao_Avaliacao": 5,
+            "comentario_Avaliacao": "Um dos melhores filmes que já vi. Ótima atuação, história emocionante e final surpreendente."
+        },
+        {
+            "Utilizador_ID": 2,
+            "Filme_ID": 2,
+            "Classificacao_Avaliacao": 4,
+            "Comentario_Avaliacao": "Um clássico do cinema. Ótima direção e atuações, mas a história poderia ser um pouco mais envolvente."
+        },
+        {
+            "Utilizador_ID": 3,
+            "Filme_ID": 3,
+            "Classificacao_Avaliacao": 5,
+            "Comentario_Avaliacao": "Um dos melhores filmes de super-heróis já feitos. Heath Ledger entrega uma performance incrível como o Coringa."
+        },
+        {
+            "Utilizador_ID": 1,
+            "Filme_ID": 4,
+            "Classificacao_Avaliacao": 4,
+            "Comentario_Avaliacao": "Um filme complexo e fascinante. Adoro o conceito de sonhos dentro de sonhos."
+        },
+        {
+            "Utilizador_ID": 2,
+            "Filme_ID": 5,
+            "Classificacao_Avaliacao": 5,
+            "Comentario_Avaliacao": "Uma conclusão épica para a trilogia. Visualmente deslumbrante e emocionante do início ao fim."
+        }
+    ],
+    // Favorido
+    "db_Favorido": [
+        {
+            "Utilizador_ID": 1, // Chave estrangeira referenciando a tabela `db_Utilizador`
+            "Filme_ID": 1, // Chave estrangeira referenciando a tabela `db_Filme`
+            "Classificacao_Avaliacao": 5,
+            "Comentario_Avaliacao": "Um dos melhores filmes que já vi. Ótima atuação, história emocionante e final surpreendente.",
+            "Comentario_Favorido": "Um clássico absoluto!",
+            "gosto_Favorido": "sim"
+        },
+        {
+            "Utilizador_ID": 2,
+            "Filme_ID": 2,
+            "Classificacao_Avaliacao": 4,
+            "Comentario_Avaliacao": "Um clássico do cinema. Ótima direção e atuações, mas a história poderia ser um pouco mais envolvente."
+        },
+        {
+            "Utilizador_ID": 3,
+            "Filme_ID": 3,
+            "Classificacao_Avaliacao": 5,
+            "Comentario_Avaliacao": "Um dos melhores filmes de super-heróis já feitos. Heath Ledger entrega uma performance incrível como o Coringa.",
+            "Comentario_Favorido": "Adoro esse filme!",
+            "gosto_Favorido": "sim"
+        },
+        {
+            "Utilizador_ID": 1,
+            "Filme_ID": 4,
+            "Classificacao_Avaliacao": 4,
+            "Comentario_Avaliacao": "Um filme complexo e fascinante. Adoro o conceito de sonhos dentro de sonhos."
+        },
+        {
+            "Utilizador_ID": 2,
+            "Filme_ID": 5,
+            "Classificacao_Avaliacao": 5,
+            "Comentario_Avaliacao": "Uma conclusão épica para a trilogia. Visualmente deslumbrante e emocionante do início ao fim."
+        }
+    ],
+    "db_Filmes_Generos": [
+        {
+            "id_Genero": "1", // Ficar uma cópia de ID (útil para Mysql)
+            "filme_ID": "1", // Chave estrangeira referenciando a tabela `db_Filme`
+            "Genero_ID": "1" // Chave estrangeira referenciando a tabela `db_genero`
+        },
+        {
+            "id_Genero": "2",
+            "Filmes_ID": 1,
+            "Genero_ID": 7
+        },
+        {
+            "id_Genero": "3",
+            "Filmes_ID": 2,
+            "Genero_ID": 1
+        },
+        {
+            "id_Genero": "4",
+            "Filmes_ID": 2,
+            "Genero_ID": 7
+        },
+        {
+            "id_Genero": "5",
+            "Filmes_ID": 2,
+            "Genero_ID": 18
+        },
+        {
+            "id_Genero": "6",
+            "Filmes_ID": 3,
+            "Genero_ID": 2
+        },
+        {
+            "id_Genero": "7",
+            "Filmes_ID": 3,
+            "Genero_ID": 8
+        },
+        {
+            "id_Genero": "8",
+            "Filmes_ID": 3,
+            "Genero_ID": 12
+        },
+        {
+            "id_Genero": "9",
+            "Filmes_ID": 4,
+            "Genero_ID": 2
+        },
+        {
+            "id_Genero": "10",
+            "Filmes_ID": 4,
+            "Genero_ID": 17
+        },
+        {
+            "id_Genero": "11",
+            "Filmes_ID": 5,
+            "Genero_ID": 3
+        },
+        {
+            "id_Genero": "12",
+            "Filmes_ID": 5,
+            "Genero_ID": 16
+        }
+    ]
+}
